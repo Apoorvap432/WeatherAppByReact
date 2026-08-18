@@ -22,8 +22,8 @@ A modern, responsive weather application built with React that provides real-tim
 - **Frontend Framework**: React 19
 - **Build Tool**: Vite
 - **Styling**: 
-  - Tailwind CSS (utility-first CSS framework)
-  - Material-UI (React components)
+  - Tailwind CSS 
+  - Material-UI
 - **Notifications**: React Toastify
 - **API**: OpenWeatherMap API
 - **Dev Tools**: ESLint, PostCSS, Autoprefixer
